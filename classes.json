@@ -524,7 +524,7 @@
     "domestic_room": null,
     "sludge_plut": null,
     "fire_system": null,
-    "floor": [0, 1, 2],
+    "floor": [0, -1, -2],
     "height_max": 999
 }, {
     "class": "D",
