@@ -2,10 +2,12 @@ import json
 import flask
 
 app = flask.Flask(__name__)
-in_ = ['coating', 'temp_condition', 'load_area', 'admin_room', 'domestic_room', 'sludge_plut', 'fire_system', 'floor']
+in_ = ['coating', 'temp_condition', 'load_area', 'admin_room',
+       'domestic_room', 'sludge_plut', 'fire_system', 'floor']
 
 with open('classes.json', encoding='utf-8') as f:
     config = json.load(f)
+
 
 def test(d: dict) -> str:
     for row in config:
