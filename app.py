@@ -2,10 +2,12 @@ import json
 import flask
 
 app = flask.Flask(__name__)
-in_ = ['coating', 'temp_condition', 'load_area', 'admin_room', 'domestic_room', 'sludge_plut', 'fire_system', 'floor']
+in_ = ['coating', 'temp_condition', 'load_area', 'admin_room',
+       'domestic_room', 'sludge_plut', 'fire_system', 'floor']
 
 with open('classes.json', encoding='utf-8') as f:
     config = json.load(f)
+
 
 def test(d: dict) -> str:
     for row in config:
@@ -30,5 +32,18 @@ def classify():
     return json.dumps(res, ensure_ascii=False)
 
 
-# print(test())
-app.run()
+print(test(
+    {
+        "id": "191110W00159682",
+        "coating": "Антипылевое Покрытие",
+        "temp_condition": "Отапливаемый",
+        "load_area": "",
+        "height": 4.25,
+        "admin_room": "Да",
+        "domestic_room": "Да",
+        "sludge_plut": "",
+        "fire_system": "",
+        "floor": ""
+    }
+))
+# app.run()
