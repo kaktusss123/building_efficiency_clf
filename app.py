@@ -32,18 +32,5 @@ def classify():
     return json.dumps(res, ensure_ascii=False)
 
 
-print(test(
-    {
-        "id": "191110W00159682",
-        "coating": "Антипылевое Покрытие",
-        "temp_condition": "Отапливаемый",
-        "load_area": "",
-        "height": 4.25,
-        "admin_room": "Да",
-        "domestic_room": "Да",
-        "sludge_plut": "",
-        "fire_system": "",
-        "floor": ""
-    }
-))
-# app.run()
+# print(test())
+app.run('10.199.13.111', 9513)
