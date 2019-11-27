@@ -1,8 +1,8 @@
 [{
-    "class": "А",
+    "class": "A",
     "coating": ["Антипылевое Покрытие"],
     "temp_condition": ["Мультитемпературный"],
-    "load_area": ["Ворота Докового Типа"],
+    "load_area": ["Bорота Докового Типа"],
     "height_min": 9.0,
     "admin_room": ["Да", ""],
     "domestic_room": ["Да", ""],
@@ -11,10 +11,10 @@
     "floor": null,
     "height_max": 999
 }, {
-    "class": "А",
+    "class": "A",
     "coating": ["Антипылевое Покрытие"],
     "temp_condition": ["Морозильник"],
-    "load_area": ["Ворота Докового Типа", ""],
+    "load_area": ["Bорота Докового Типа", ""],
     "height_min": 9.0,
     "admin_room": ["Да", ""],
     "domestic_room": ["Да", ""],
@@ -23,10 +23,10 @@
     "floor": null,
     "height_max": 999
 }, {
-    "class": "А",
+    "class": "A",
     "coating": ["Антипылевое Покрытие"],
     "temp_condition": ["Холодильник"],
-    "load_area": ["Ворота Докового Типа", ""],
+    "load_area": ["Bорота Докового Типа", ""],
     "height_min": 9.0,
     "admin_room": ["Да", ""],
     "domestic_room": ["Да", ""],
@@ -35,10 +35,10 @@
     "floor": null,
     "height_max": 999
 }, {
-    "class": "А",
+    "class": "A",
     "coating": ["Антипылевое Покрытие"],
     "temp_condition": ["Отапливаемый"],
-    "load_area": ["Ворота Докового Типа"],
+    "load_area": ["Bорота Докового Типа"],
     "height_min": 9.0,
     "admin_room": ["Да", ""],
     "domestic_room": ["Да", ""],
@@ -47,7 +47,7 @@
     "floor": null,
     "height_max": 999
 }, {
-    "class": "А",
+    "class": "A",
     "coating": ["Антипылевое Покрытие"],
     "temp_condition": ["Отапливаемый"],
     "load_area": [""],
@@ -59,7 +59,7 @@
     "floor": null,
     "height_max": 999
 }, {
-    "class": "А",
+    "class": "A",
     "coating": ["Антипылевое Покрытие"],
     "temp_condition": ["Отапливаемый"],
     "load_area": [""],
@@ -71,10 +71,10 @@
     "floor": null,
     "height_max": 999
 }, {
-    "class": "А",
+    "class": "A",
     "coating": ["Антипылевое Покрытие"],
     "temp_condition": ["Отапливаемый"],
-    "load_area": ["Ворота Докового Типа"],
+    "load_area": ["Bорота Докового Типа"],
     "height_min": 9.0,
     "admin_room": ["Да", ""],
     "domestic_room": ["Да", ""],
@@ -83,10 +83,10 @@
     "floor": null,
     "height_max": 999
 }, {
-    "class": "А",
+    "class": "A",
     "coating": ["Антипылевое Покрытие"],
     "temp_condition": ["Отапливаемый"],
-    "load_area": ["Ворота Уровень 0"],
+    "load_area": ["Bорота Уровень 0"],
     "height_min": 9.0,
     "admin_room": ["Да", ""],
     "domestic_room": ["Да", ""],
@@ -95,10 +95,10 @@
     "floor": null,
     "height_max": 999
 }, {
-    "class": "В+",
+    "class": "B+",
     "coating": ["Антипылевое Покрытие"],
     "temp_condition": ["Мультитемпературный"],
-    "load_area": ["Ворота Докового Типа", ""],
+    "load_area": ["Bорота Докового Типа", ""],
     "height_min": 8.0,
     "admin_room": ["Да", ""],
     "domestic_room": ["Да", ""],
@@ -107,10 +107,10 @@
     "floor": null,
     "height_max": 9.0
 }, {
-    "class": "В+",
+    "class": "B+",
     "coating": ["Антипылевое Покрытие"],
     "temp_condition": ["Морозильник"],
-    "load_area": ["Ворота Докового Типа", ""],
+    "load_area": ["Bорота Докового Типа", ""],
     "height_min": 8.0,
     "admin_room": ["Да", ""],
     "domestic_room": ["Да", ""],
@@ -119,10 +119,10 @@
     "floor": null,
     "height_max": 9.0
 }, {
-    "class": "В+",
+    "class": "B+",
     "coating": ["Антипылевое Покрытие"],
     "temp_condition": ["Холодильник"],
-    "load_area": ["Ворота Докового Типа", ""],
+    "load_area": ["Bорота Докового Типа", ""],
     "height_min": 8.0,
     "admin_room": ["Да", ""],
     "domestic_room": ["Да", ""],
@@ -131,7 +131,7 @@
     "floor": null,
     "height_max": 9.0
 }, {
-    "class": "В+",
+    "class": "B+",
     "coating": ["Антипылевое Покрытие"],
     "temp_condition": ["Мультитемпературный"],
     "load_area": ["Пандус"],
@@ -143,7 +143,7 @@
     "floor": null,
     "height_max": 999
 }, {
-    "class": "В+",
+    "class": "B+",
     "coating": ["Антипылевое Покрытие"],
     "temp_condition": ["Морозильник"],
     "load_area": ["Пандус"],
@@ -155,7 +155,7 @@
     "floor": null,
     "height_max": 999
 }, {
-    "class": "В+",
+    "class": "B+",
     "coating": ["Антипылевое Покрытие"],
     "temp_condition": ["Морозильник"],
     "load_area": ["Пандус"],
@@ -167,10 +167,10 @@
     "floor": null,
     "height_max": 999
 }, {
-    "class": "В+",
+    "class": "B+",
     "coating": ["Антипылевое Покрытие"],
     "temp_condition": ["Отапливаемый"],
-    "load_area": ["Ворота Докового Типа"],
+    "load_area": ["Bорота Докового Типа"],
     "height_min": 8.0,
     "admin_room": ["Да", ""],
     "domestic_room": ["Да", ""],
@@ -179,7 +179,7 @@
     "floor": null,
     "height_max": 999
 }, {
-    "class": "В+",
+    "class": "B+",
     "coating": ["Антипылевое Покрытие"],
     "temp_condition": ["Отапливаемый"],
     "load_area": ["Пандус"],
@@ -191,7 +191,7 @@
     "floor": null,
     "height_max": 999
 }, {
-    "class": "В+",
+    "class": "B+",
     "coating": ["Антипылевое Покрытие"],
     "temp_condition": ["Отапливаемый"],
     "load_area": [""],
@@ -203,7 +203,7 @@
     "floor": null,
     "height_max": 999
 }, {
-    "class": "В+",
+    "class": "B+",
     "coating": ["Антипылевое Покрытие"],
     "temp_condition": ["Отапливаемый"],
     "load_area": [""],
@@ -215,10 +215,10 @@
     "floor": null,
     "height_max": 9.0
 }, {
-    "class": "В+",
+    "class": "B+",
     "coating": ["Антипылевое Покрытие"],
     "temp_condition": ["Отапливаемый"],
-    "load_area": ["Ворота Докового Типа"],
+    "load_area": ["Bорота Докового Типа"],
     "height_min": 8.0,
     "admin_room": ["Да", ""],
     "domestic_room": ["Да", ""],
@@ -227,7 +227,7 @@
     "floor": null,
     "height_max": 9.0
 }, {
-    "class": "В+",
+    "class": "B+",
     "coating": [""],
     "temp_condition": ["Морозильник"],
     "load_area": ["Пандус"],
@@ -239,10 +239,10 @@
     "floor": null,
     "height_max": 999
 }, {
-    "class": "В-",
+    "class": "B-",
     "coating": ["Антипылевое Покрытие"],
     "temp_condition": ["Мультитемпературный"],
-    "load_area": ["Ворота Докового Типа", ""],
+    "load_area": ["Bорота Докового Типа", ""],
     "height_min": 1,
     "admin_room": ["Да", ""],
     "domestic_room": ["Да", ""],
@@ -251,10 +251,10 @@
     "floor": null,
     "height_max": 8.0
 }, {
-    "class": "В-",
+    "class": "B-",
     "coating": ["Антипылевое Покрытие"],
     "temp_condition": ["Морозильник"],
-    "load_area": ["Ворота Докового Типа", ""],
+    "load_area": ["Bорота Докового Типа", ""],
     "height_min": 1,
     "admin_room": ["Да", ""],
     "domestic_room": ["Да", ""],
@@ -263,10 +263,10 @@
     "floor": null,
     "height_max": 8.0
 }, {
-    "class": "В-",
+    "class": "B-",
     "coating": ["Антипылевое Покрытие"],
     "temp_condition": ["Холодильник"],
-    "load_area": ["Ворота Докового Типа", ""],
+    "load_area": ["Bорота Докового Типа", ""],
     "height_min": 1,
     "admin_room": ["Да", ""],
     "domestic_room": ["Да", ""],
@@ -275,10 +275,10 @@
     "floor": null,
     "height_max": 8.0
 }, {
-    "class": "В-",
+    "class": "B-",
     "coating": ["Антипылевое Покрытие"],
     "temp_condition": ["Отапливаемый"],
-    "load_area": ["Ворота Докового Типа"],
+    "load_area": ["Bорота Докового Типа"],
     "height_min": 1,
     "admin_room": ["Да", ""],
     "domestic_room": ["Да", ""],
@@ -287,7 +287,7 @@
     "floor": null,
     "height_max": 8.0
 }, {
-    "class": "В-",
+    "class": "B-",
     "coating": ["Антипылевое Покрытие"],
     "temp_condition": ["Отапливаемый"],
     "load_area": ["Пандус"],
@@ -299,7 +299,7 @@
     "floor": null,
     "height_max": 8.0
 }, {
-    "class": "В-",
+    "class": "B-",
     "coating": ["Антипылевое Покрытие"],
     "temp_condition": ["Отапливаемый"],
     "load_area": [""],
@@ -311,7 +311,7 @@
     "floor": null,
     "height_max": 999
 }, {
-    "class": "В-",
+    "class": "B-",
     "coating": ["Асфальт", "Бетон Без Покрытия"],
     "temp_condition": ["Морозильник"],
     "load_area": ["Пандус"],
@@ -323,7 +323,7 @@
     "floor": null,
     "height_max": 999
 }, {
-    "class": "В-",
+    "class": "B-",
     "coating": ["Асфальт", "Бетон Без Покрытия"],
     "temp_condition": ["Холодильник"],
     "load_area": ["Пандус"],
@@ -335,10 +335,10 @@
     "floor": null,
     "height_max": 999
 }, {
-    "class": "В-",
+    "class": "B-",
     "coating": ["Асфальт", "Бетон Без Покрытия"],
     "temp_condition": ["Отапливаемый"],
-    "load_area": ["Ворота Докового Типа"],
+    "load_area": ["Bорота Докового Типа"],
     "height_min": 6.0,
     "admin_room": ["Да", ""],
     "domestic_room": ["Да", ""],
@@ -347,7 +347,7 @@
     "floor": null,
     "height_max": 999
 }, {
-    "class": "В-",
+    "class": "B-",
     "coating": ["Асфальт", "Бетон Без Покрытия"],
     "temp_condition": ["Отапливаемый"],
     "load_area": ["Пандус"],
@@ -359,7 +359,7 @@
     "floor": null,
     "height_max": 999
 }, {
-    "class": "В-",
+    "class": "B-",
     "coating": ["Асфальт", "Бетон Без Покрытия"],
     "temp_condition": ["Отапливаемый"],
     "load_area": [""],
@@ -371,7 +371,7 @@
     "floor": null,
     "height_max": 999
 }, {
-    "class": "В-",
+    "class": "B-",
     "coating": [""],
     "temp_condition": ["Отапливаемый"],
     "load_area": ["Пандус"],
@@ -383,7 +383,7 @@
     "floor": null,
     "height_max": 999
 }, {
-    "class": "В-",
+    "class": "B-",
     "coating": [""],
     "temp_condition": ["Отапливаемый"],
     "load_area": [""],
@@ -395,10 +395,10 @@
     "floor": null,
     "height_max": 999
 }, {
-    "class": "В-",
+    "class": "B-",
     "coating": [""],
     "temp_condition": ["Отапливаемый"],
-    "load_area": ["Ворота Докового Типа"],
+    "load_area": ["Bорота Докового Типа"],
     "height_min": 6.0,
     "admin_room": ["Да", ""],
     "domestic_room": ["Да", ""],
@@ -407,7 +407,7 @@
     "floor": null,
     "height_max": 999
 }, {
-    "class": "В-",
+    "class": "B-",
     "coating": ["Антипылевое Покрытие"],
     "temp_condition": ["Морозильник"],
     "load_area": ["Пандус"],
@@ -419,7 +419,7 @@
     "floor": null,
     "height_max": 8.0
 }, {
-    "class": "В-",
+    "class": "B-",
     "coating": ["Антипылевое Покрытие"],
     "temp_condition": ["Морозильник"],
     "load_area": ["Пандус"],
@@ -431,7 +431,7 @@
     "floor": null,
     "height_max": 999
 }, {
-    "class": "В-",
+    "class": "B-",
     "coating": ["Антипылевое Покрытие"],
     "temp_condition": ["Морозильник"],
     "load_area": [""],
@@ -443,7 +443,7 @@
     "floor": null,
     "height_max": 8.0
 }, {
-    "class": "В-",
+    "class": "B-",
     "coating": ["Антипылевое Покрытие"],
     "temp_condition": ["Холодильник"],
     "load_area": ["Пандус"],
@@ -455,7 +455,7 @@
     "floor": null,
     "height_max": 999
 }, {
-    "class": "В-",
+    "class": "B-",
     "coating": ["Антипылевое Покрытие"],
     "temp_condition": ["Холодильник"],
     "load_area": ["Пандус"],
@@ -467,10 +467,10 @@
     "floor": null,
     "height_max": 8.0
 }, {
-    "class": "В-",
+    "class": "B-",
     "coating": ["Антипылевое Покрытие"],
     "temp_condition": ["Мультитемпературный"],
-    "load_area": ["Ворота Уровень 0"],
+    "load_area": ["Bорота Уровень 0"],
     "height_min": 1,
     "admin_room": ["Да", ""],
     "domestic_room": ["Да", ""],
@@ -479,7 +479,7 @@
     "floor": null,
     "height_max": 999
 }, {
-    "class": "В-",
+    "class": "B-",
     "coating": ["Антипылевое Покрытие"],
     "temp_condition": ["Мультитемпературный"],
     "load_area": [""],
@@ -491,10 +491,10 @@
     "floor": null,
     "height_max": 8.0
 }, {
-    "class": "В-",
+    "class": "B-",
     "coating": ["Антипылевое Покрытие"],
     "temp_condition": ["Отапливаемый"],
-    "load_area": ["Ворота Уровень 0"],
+    "load_area": ["Bорота Уровень 0"],
     "height_min": 1,
     "admin_room": ["Да", ""],
     "domestic_room": ["Да", ""],
@@ -503,7 +503,7 @@
     "floor": null,
     "height_max": 8.0
 }, {
-    "class": "В-",
+    "class": "B-",
     "coating": ["Антипылевое Покрытие"],
     "temp_condition": ["Отапливаемый"],
     "load_area": ["Пандус"],
@@ -515,7 +515,7 @@
     "floor": null,
     "height_max": 999
 }, {
-    "class": "В-",
+    "class": "B-",
     "coating": ["Асфальт", "Бетон Без Покрытия"],
     "temp_condition": ["Холодильник"],
     "load_area": ["Пандус"],
@@ -527,10 +527,10 @@
     "floor": null,
     "height_max": 999
 }, {
-    "class": "В-",
+    "class": "B-",
     "coating": ["Асфальт", "Бетон Без Покрытия"],
     "temp_condition": ["Холодильник"],
-    "load_area": ["Ворота Докового Типа"],
+    "load_area": ["Bорота Докового Типа"],
     "height_min": 1,
     "admin_room": ["Да", ""],
     "domestic_room": ["Да", ""],
@@ -539,7 +539,7 @@
     "floor": null,
     "height_max": 8.0
 }, {
-    "class": "В-",
+    "class": "B-",
     "coating": ["Асфальт", "Бетон Без Покрытия"],
     "temp_condition": ["Холодильник"],
     "load_area": [""],
@@ -551,10 +551,10 @@
     "floor": null,
     "height_max": 999
 }, {
-    "class": "В-",
+    "class": "B-",
     "coating": ["Асфальт", "Бетон Без Покрытия"],
     "temp_condition": ["Отапливаемый"],
-    "load_area": ["Ворота Уровень 0"],
+    "load_area": ["Bорота Уровень 0"],
     "height_min": 1,
     "admin_room": ["Да", ""],
     "domestic_room": ["Да", ""],
@@ -563,7 +563,7 @@
     "floor": null,
     "height_max": 8.0
 }, {
-    "class": "В-",
+    "class": "B-",
     "coating": [""],
     "temp_condition": ["Холодильник"],
     "load_area": ["Пандус"],
@@ -575,7 +575,7 @@
     "floor": null,
     "height_max": 8.0
 }, {
-    "class": "В-",
+    "class": "B-",
     "coating": [""],
     "temp_condition": ["Холодильник"],
     "load_area": [""],
@@ -587,7 +587,7 @@
     "floor": null,
     "height_max": 999
 }, {
-    "class": "В-",
+    "class": "B-",
     "coating": [""],
     "temp_condition": ["Морозильник"],
     "load_area": [""],
@@ -599,7 +599,7 @@
     "floor": null,
     "height_max": 999
 }, {
-    "class": "В-",
+    "class": "B-",
     "coating": ["Антипылевое Покрытие"],
     "temp_condition": ["С разным температурным режимом"],
     "load_area": ["Пандус"],
@@ -611,7 +611,7 @@
     "floor": null,
     "height_max": 999
 }, {
-    "class": "С",
+    "class": "C",
     "coating": ["Антипылевое Покрытие"],
     "temp_condition": ["Отапливаемый"],
     "load_area": ["Пандус"],
@@ -623,7 +623,7 @@
     "floor": null,
     "height_max": 5.0
 }, {
-    "class": "С",
+    "class": "C",
     "coating": ["Антипылевое Покрытие"],
     "temp_condition": ["Отапливаемый"],
     "load_area": [""],
@@ -635,7 +635,7 @@
     "floor": null,
     "height_max": 5.0
 }, {
-    "class": "С",
+    "class": "C",
     "coating": ["Асфальт", "Бетон Без Покрытия"],
     "temp_condition": ["Морозильник"],
     "load_area": ["Пандус", ""],
@@ -647,7 +647,7 @@
     "floor": null,
     "height_max": 6.0
 }, {
-    "class": "С",
+    "class": "C",
     "coating": ["Асфальт", "Бетон Без Покрытия"],
     "temp_condition": ["Холодильник"],
     "load_area": ["Пандус", ""],
@@ -659,10 +659,10 @@
     "floor": null,
     "height_max": 6.0
 }, {
-    "class": "С",
+    "class": "C",
     "coating": ["Асфальт", "Бетон Без Покрытия"],
     "temp_condition": ["Отапливаемый"],
-    "load_area": ["Ворота Докового Типа"],
+    "load_area": ["Bорота Докового Типа"],
     "height_min": 1,
     "admin_room": ["Да", ""],
     "domestic_room": ["Да", ""],
@@ -671,7 +671,7 @@
     "floor": null,
     "height_max": 6.0
 }, {
-    "class": "С",
+    "class": "C",
     "coating": ["Асфальт", "Бетон Без Покрытия"],
     "temp_condition": ["Отапливаемый"],
     "load_area": ["Пандус", ""],
@@ -683,7 +683,7 @@
     "floor": null,
     "height_max": 6.0
 }, {
-    "class": "С",
+    "class": "C",
     "coating": ["Асфальт", "Бетон Без Покрытия"],
     "temp_condition": ["Отапливаемый"],
     "load_area": [""],
@@ -695,7 +695,7 @@
     "floor": null,
     "height_max": 6.0
 }, {
-    "class": "С",
+    "class": "C",
     "coating": ["Бетонная плитка"],
     "temp_condition": ["Отапливаемый"],
     "load_area": ["Пандус", ""],
@@ -707,7 +707,7 @@
     "floor": null,
     "height_max": 999
 }, {
-    "class": "С",
+    "class": "C",
     "coating": [""],
     "temp_condition": ["Отапливаемый"],
     "load_area": [""],
@@ -719,10 +719,10 @@
     "floor": null,
     "height_max": 999
 }, {
-    "class": "С",
+    "class": "C",
     "coating": ["Асфальт", "Бетон Без Покрытия"],
     "temp_condition": ["Неотапливаемый"],
-    "load_area": ["Ворота Докового Типа"],
+    "load_area": ["Bорота Докового Типа"],
     "height_min": 9.0,
     "admin_room": ["Да", ""],
     "domestic_room": ["Да", ""],
@@ -731,7 +731,7 @@
     "floor": null,
     "height_max": 999
 }, {
-    "class": "С",
+    "class": "C",
     "coating": [""],
     "temp_condition": ["Холодильник"],
     "load_area": [""],
@@ -743,7 +743,7 @@
     "floor": null,
     "height_max": 5.0
 }, {
-    "class": "С",
+    "class": "C",
     "coating": [""],
     "temp_condition": ["Морозильник"],
     "load_area": ["Пандус"],
@@ -755,7 +755,7 @@
     "floor": null,
     "height_max": 6.0
 }, {
-    "class": "С",
+    "class": "C",
     "coating": [""],
     "temp_condition": ["Морозильник"],
     "load_area": ["Пандус"],
@@ -767,7 +767,7 @@
     "floor": null,
     "height_max": 999
 }, {
-    "class": "С",
+    "class": "C",
     "coating": ["Асфальт", "Бетон Без Покрытия"],
     "temp_condition": ["Морозильник"],
     "load_area": [""],
@@ -779,7 +779,7 @@
     "floor": null,
     "height_max": 6.0
 }, {
-    "class": "С",
+    "class": "C",
     "coating": [""],
     "temp_condition": ["Морозильник"],
     "load_area": [""],
@@ -791,7 +791,7 @@
     "floor": null,
     "height_max": 6.0
 }, {
-    "class": "С",
+    "class": "C",
     "coating": ["Антипылевое Покрытие"],
     "temp_condition": ["Отапливаемый"],
     "load_area": [""],
@@ -803,10 +803,10 @@
     "floor": null,
     "height_max": 999
 }, {
-    "class": "С",
+    "class": "C",
     "coating": [""],
     "temp_condition": ["Отапливаемый"],
-    "load_area": ["Ворота Докового Типа"],
+    "load_area": ["Bорота Докового Типа"],
     "height_min": 1,
     "admin_room": ["Да", ""],
     "domestic_room": ["Да", ""],
@@ -815,7 +815,7 @@
     "floor": null,
     "height_max": 6.0
 }, {
-    "class": "С",
+    "class": "C",
     "coating": [""],
     "temp_condition": ["Отапливаемый"],
     "load_area": ["Пандус"],
@@ -827,10 +827,10 @@
     "floor": null,
     "height_max": 6.0
 }, {
-    "class": "С",
+    "class": "C",
     "coating": ["Антипылевое Покрытие"],
     "temp_condition": ["Неотапливаемый"],
-    "load_area": ["Ворота Докового Типа"],
+    "load_area": ["Bорота Докового Типа"],
     "height_min": 6.0,
     "admin_room": ["Да", ""],
     "domestic_room": ["Да", ""],
@@ -839,7 +839,7 @@
     "floor": null,
     "height_max": 8.0
 }, {
-    "class": "С",
+    "class": "C",
     "coating": ["Асфальт", "Бетон Без Покрытия"],
     "temp_condition": ["С разным температурным режимом"],
     "load_area": ["Пандус"],
@@ -902,7 +902,7 @@
     "class": "D",
     "coating": ["Асфальт", "Бетон Без Покрытия"],
     "temp_condition": ["Неотапливаемый"],
-    "load_area": ["Ворота Докового Типа"],
+    "load_area": ["Bорота Докового Типа"],
     "height_min": 1,
     "admin_room": ["Да", ""],
     "domestic_room": ["Да", ""],
@@ -938,7 +938,7 @@
     "class": "D",
     "coating": ["Антипылевое Покрытие"],
     "temp_condition": ["Неотапливаемый"],
-    "load_area": ["Ворота Докового Типа"],
+    "load_area": ["Bорота Докового Типа"],
     "height_min": 1,
     "admin_room": ["Да", ""],
     "domestic_room": ["Да", ""],
@@ -950,7 +950,7 @@
     "class": "D",
     "coating": ["Антипылевое Покрытие"],
     "temp_condition": ["Неотапливаемый"],
-    "load_area": ["Ворота Докового Типа"],
+    "load_area": ["Bорота Докового Типа"],
     "height_min": 1,
     "admin_room": ["Да", ""],
     "domestic_room": ["Да", ""],
@@ -986,7 +986,7 @@
     "class": "D",
     "coating": ["Асфальт", "Бетон Без Покрытия"],
     "temp_condition": ["Неотапливаемый"],
-    "load_area": ["Ворота Докового Типа"],
+    "load_area": ["Bорота Докового Типа"],
     "height_min": 1,
     "admin_room": ["Да", ""],
     "domestic_room": ["Да", ""],
@@ -998,7 +998,7 @@
     "class": "D",
     "coating": ["Асфальт", "Бетон Без Покрытия"],
     "temp_condition": ["Неотапливаемый"],
-    "load_area": ["Ворота Уровень 0"],
+    "load_area": ["Bорота Уровень 0"],
     "height_min": 1,
     "admin_room": null,
     "domestic_room": null,
@@ -1046,7 +1046,7 @@
     "class": "D",
     "coating": [""],
     "temp_condition": ["Неотапливаемый"],
-    "load_area": ["Ворота Докового Типа"],
+    "load_area": ["Bорота Докового Типа"],
     "height_min": 8.0,
     "admin_room": null,
     "domestic_room": null,
